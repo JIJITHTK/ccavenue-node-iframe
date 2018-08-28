@@ -25,4 +25,4 @@ app.post('/ccavResponseHandler', function (request, response){
         ccavResHandler.postRes(request, response);
 });
 
-app.listen(3002);
+app.listen(3001);
